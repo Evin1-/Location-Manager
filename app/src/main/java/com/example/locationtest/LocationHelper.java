@@ -8,6 +8,8 @@ import android.location.LocationManager;
 import android.os.Bundle;
 import android.util.Log;
 
+import org.greenrobot.eventbus.EventBus;
+
 /**
  * Created by evin on 8/9/16.
  */
